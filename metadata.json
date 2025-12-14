@@ -1,0 +1,5 @@
+{
+  "name": "Simulador ADC Interactivo",
+  "description": "Una herramienta educativa interactiva para visualizar el proceso de conversión analógico-digital (ADC). Permite configurar señales de entrada (senoidal, rampa, impulso, ruido), frecuencia de muestreo y resolución de bits para observar los efectos de cuantización y aliasing en tiempo real.",
+  "requestFramePermissions": []
+}
